@@ -1,0 +1,21 @@
+1.npx create-react-app cuet-transport-app
+
+2.npm install react-router-dom
+
+3.components
+
+4.Navbar.js & Navbar.css
+
+5.Link
+
+6.<Router>
+
+https://seeklogo.com/images/C/chittagong-university-of-engineering-and-technolog-logo-27727AB3FD-seeklogo.com.png
+
+8.The Route component defines the specific mapping between a URL (path) and a component (element). When the browser URL matches the path of a Route, React will render the specified component.
+path: This is the URL pattern you want to match. It could be an exact match, a partial match, or it could include dynamic segments (like parameters).
+element: This is the component that will render when the route matches the current URL.
+
+9.The Routes component is used to define which Route to display depending on the current URL. It is a wrapper for the Route components
+
+10.It’s responsible for keeping track of the current location (URL) and updating the view accordingly.
